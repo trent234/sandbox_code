@@ -1,0 +1,13 @@
+This program solves the "knapsack problem" with dynamic programming:
+
+Task:
+In this problem, you are given a set of bars of gold and your goal is to take as much gold as possible
+into your bag. There is just one copy of each bar and for each bar you can either take it or not (hence
+you cannot take a fraction of a bar).
+
+Input Format:
+The first line of the input contains the capacity W of a knapsack and the number n of bars
+of gold. The next line contains n integers w 0 , w 1 , . . . , w n−1 defining the weights of the bars of gold.
+
+Constraints:
+ 1 ≤ W ≤ 10 4 ; 1 ≤ n ≤ 300; 0 ≤ w 0 , . . . , w n−1 ≤ 10 5 .
